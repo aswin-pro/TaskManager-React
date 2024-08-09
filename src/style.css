@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    box-shadow: rgba(89, 133, 177, 0.2) 0px 8px 24px;
+    border-radius: 12px;
+    width: fit-content;
+    margin-top: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.main h1{
+    text-align: center;
+    color: rgb(177, 134, 77);
+    margin-bottom: 20px;
+}
+button{
+    background-color: rgb(145, 145, 255);
+    border: none;
+    padding: 8px;
+    color: white;
+    cursor: pointer;
+}
+.clrbtn{
+    margin-top: 5px;
+}
+.addbtn{
+    margin-left: 10px;
+    width: 70px;
+}
+input{
+    padding:6px ;
+    margin-bottom: 10px;
+}
+input:focus{
+    outline: none;
+}
+span{
+    margin-left: 10px;
+}
